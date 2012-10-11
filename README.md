@@ -14,3 +14,7 @@ New test from Monica
 My private changes, Harold
 
 A change by Tara for the Demo Part 2
+
+---------------------------
+
+Further changes during the Git-level tutorial
